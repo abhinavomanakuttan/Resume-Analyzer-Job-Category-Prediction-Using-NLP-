@@ -106,7 +106,7 @@ Resume-Analyzer/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/abhinavomanakuttan/resume-analyzer.git
+git clone https://github.com/abhinavomanakuttan/Resume-Analyzer-Job-Category-Prediction-Using-NLP-.git
 cd resume-analyzer
 ```
 
